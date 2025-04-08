@@ -1,0 +1,8 @@
+.swagger-ui .topbar {
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+}
+.swagger-ui .topbar .link img {
+  content: url("img/wibitech-logo.svg");
+}
